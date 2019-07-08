@@ -1,0 +1,117 @@
+/* Mobile  */
+@media (max-width: 767px) {
+
+  #screen-container {
+    width: 480px;
+    flex-direction: column;
+  }
+
+  #subFlexContainer {
+    width: 480px;
+  }
+
+  #a {
+    background-color: blue;
+    height: 75px;
+    width: 480px;
+  }
+  #b {
+    background-color: red;
+    height: 150px;
+    width: 480px;
+  }
+  #c {
+    background-color: green;
+    height: 125px;
+    width: 480px;
+  }
+  #d {
+    background-color: yellow;
+    height: 125px;
+    width: 480px;
+  }
+  #e {
+    background-color: purple;
+    height: 250px;
+    width: 240px;
+  }
+  #f {
+    background-color: orange;
+    height: 250px;
+    width: 240px;
+  }
+  #g {
+    background-color: grey;
+    height: 250px;
+    width: 240px;
+  }
+  #h {
+    background-color: pink;
+    height: 250px;
+    width: 240px;
+  }
+  #i {
+    background-color: brown;
+    height: 80px;
+    width: 480px;
+  }
+}
+
+/* Web */
+@media (min-width: 768px) {
+
+  #screen-container {
+    height: 700px;
+    width: 960px;
+  }
+
+  #subFlexContainer {
+    width: 760px;
+  }
+
+  #a {
+    background-color: brown;
+    height: 100px;
+    width: 960px;
+  }
+  #b {
+    background-color: blue;
+    height: 600px;
+    width: 200px;
+  }
+  #c {
+    background-color: red;
+    height: 200px;
+    width: 380px;
+  }
+  #d {
+    background-color: green;
+    height: 200px;
+    width: 380px;
+  }
+  #e {
+    background-color: yellow;
+    height: 250px;
+    width: 190px;
+  }
+  #f {
+    background-color: purple;
+    height: 250px;
+    width: 190px;
+  }
+  #g {
+    background-color: orange;
+    height: 250px;
+    width: 190px;
+  }
+  #h {
+    background-color: grey;
+    height: 250px;
+    width: 190px;
+  }
+  #i {
+    background-color: pink;
+    height: 150px;
+    width: 760px;
+  }
+}

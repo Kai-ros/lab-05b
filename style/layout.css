@@ -1,0 +1,20 @@
+#screen-container {
+  margin: auto;
+  
+}
+
+#subFlexContainer {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.boxes {
+  position: relative;
+  outline: 1px solid grey;
+}
+
+p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+}
